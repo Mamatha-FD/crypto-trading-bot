@@ -1,0 +1,36 @@
+2026-01-09 14:20:18,450 - ERROR - Error in main: API Key and Secret are required
+2026-01-09 14:57:45,544 - ERROR - Error initializing BasicBot: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-01-09 14:57:45,548 - ERROR - Error in main: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-01-09 15:00:17,608 - ERROR - Error initializing BasicBot: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-01-09 15:00:17,609 - ERROR - Error in main: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-01-09 15:06:43,491 - ERROR - Error initializing BasicBot: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-01-09 15:06:43,505 - ERROR - Error in main: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-01-09 15:16:20,721 - INFO - BasicBot initialized successfully with testnet.
+2026-01-09 15:16:20,724 - INFO - Bot started and ready for commands.
+2026-01-09 15:18:56,445 - ERROR - API Error placing market order: APIError(code=-1121): Invalid symbol.
+2026-01-09 15:20:29,043 - INFO - Bot interrupted.
+2026-01-09 15:22:06,832 - INFO - BasicBot initialized successfully with testnet.
+2026-01-09 15:22:06,833 - INFO - Bot started and ready for commands.
+2026-01-09 15:23:41,961 - ERROR - API Error placing limit order: APIError(code=-4024): Limit price can't be lower than 85870.96.
+2026-01-09 15:26:45,997 - INFO - Market order placed successfully: {'orderId': 11534860608, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJf2dfaf41021af0300f357e', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1767952605868}
+2026-01-09 15:30:56,334 - ERROR - Error in main: 
+2026-01-09 15:31:48,854 - INFO - BasicBot initialized successfully with testnet.
+2026-01-09 15:31:48,855 - INFO - Bot started and ready for commands.
+2026-01-09 15:32:21,129 - ERROR - API Error placing limit order: APIError(code=-1121): Invalid symbol.
+2026-01-09 15:33:11,614 - ERROR - API Error placing stop-limit order: APIError(code=-4184): Limit price can't be lower than 57000
+2026-01-09 15:33:26,664 - ERROR - API Error placing market order: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2026-01-09 15:34:01,282 - ERROR - API Error placing market order: APIError(code=-2019): Margin is insufficient.
+2026-01-09 15:42:12,786 - INFO - BasicBot initialized successfully with testnet.
+2026-01-09 15:42:12,788 - INFO - Bot started and ready for commands.
+2026-01-09 15:43:22,558 - INFO - Market order placed successfully: {'orderId': 11535198132, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ7acab78de651ff0608e201', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1767953602751}
+2026-01-09 15:47:43,707 - INFO - Bot exited by user.
+2026-01-09 16:00:33,989 - INFO - BasicBot initialized successfully with testnet.
+2026-01-09 16:00:33,990 - INFO - Bot started and ready for commands.
+2026-01-09 16:00:37,071 - INFO - Bot exited by user.
+2026-01-09 17:14:39,022 - INFO - BasicBot initialized successfully with testnet.
+2026-01-09 17:14:39,023 - INFO - Bot started and ready for commands.
+2026-01-09 17:16:34,009 - INFO - Bot exited by user.
+2026-01-09 17:18:01,866 - INFO - BasicBot initialized successfully with testnet.
+2026-01-09 17:18:01,867 - INFO - Bot started and ready for commands.
+2026-01-09 17:18:26,486 - INFO - Market order placed successfully: {'orderId': 11537127366, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ4fce02d9841fdaba241ce2', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1767959306765}
+2026-01-09 17:24:33,335 - INFO - Bot exited by user.
